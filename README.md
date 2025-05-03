@@ -84,7 +84,8 @@ notebook
 Feel free to fork this repo, make changes, and submit pull requests. Contributions are welcome!
 
 📬 Contact
-Linkedin: Syed Darain Hyder Kazmi \n
-Instagram: sawab_e_darain \n
-Whatsapp: +923433055357 \n
+
+Linkedin: Syed Darain Hyder Kazmi 
+Instagram: sawab_e_darain 
+Whatsapp: +923433055357 
 discord: sawab_e_darain
