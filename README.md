@@ -76,16 +76,22 @@ jupyter notebook "e commerce sales.ipynb"
 
 📄 Requirements
 
-pandas
-matplotlib
-seaborn
+pandas  
+
+matplotlib  
+
+seaborn  
+
 notebook
 
 Feel free to fork this repo, make changes, and submit pull requests. Contributions are welcome!
 
 📬 Contact
 
-Linkedin: Syed Darain Hyder Kazmi 
-Instagram: sawab_e_darain 
-Whatsapp: +923433055357 
+Linkedin: Syed Darain Hyder Kazmi  
+
+Instagram: sawab_e_darain  
+
+Whatsapp: +923433055357  
+
 discord: sawab_e_darain
