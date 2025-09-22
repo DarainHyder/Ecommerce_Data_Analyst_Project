@@ -74,7 +74,7 @@ Launch Jupyter Notebook:
 
 jupyter notebook "e commerce sales.ipynb"
 
-📄 Requirements
+## 📄 Requirements
 
 pandas  
 
@@ -86,7 +86,7 @@ notebook
 
 Feel free to fork this repo, make changes, and submit pull requests. Contributions are welcome!
 
-📬 Contact
+## 📬 Contact
 
 Linkedin: Syed Darain Hyder Kazmi  
 
